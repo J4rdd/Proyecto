@@ -1,6 +1,3 @@
-Gestión de Inventario
 
-Diseñar la tabla que registre los productos (globos, manteles, luces, guirnaldas, etc.), cantidades disponibles, fecha de ingreso y proveedor.
-
-Ejemplo de campos: ID_Producto, Nombre, Categoría, Stock, Precio_Compra, Precio_Venta, Fecha_Ingreso, Proveedor.
-Aporte: Fabrizio Lingan Chavez
+Mi contribución al proyecto fue crear un módulo en Python para gestionar inventario y pedidos.  
+Esto permitirá simular cómo se registran compras de clientes y cómo se actualiza el stock en la tienda de decoraciones.
